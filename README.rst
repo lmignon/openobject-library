@@ -1,4 +1,3 @@
-test
 oobjlib - OpenObject Library
 ============================
 
